@@ -1,0 +1,4 @@
+model,threshold,AUC,recall,precision,F1,accuracy
+Bayesian LR,0.17,0.939,0.591,0.361,0.448,0.953
+MLP,0.89,0.912,0.341,0.306,0.323,0.954
+Predict all healthy,,,,,,0.968
